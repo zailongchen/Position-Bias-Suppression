@@ -1,7 +1,7 @@
 # Positional Bias suppression for LLM-based Radiology Report Generation
 
 ## Introduction
-![overview](https://github.com/zailongchen/Attention_Suppression/blob/main/images/position_characteristic.png)
+![overview](https://github.com/zailongchen/Position-Bias-Suppression/blob/main/images/pbs.png)
 
 ## Getting Started
 ### Installation
