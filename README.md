@@ -12,7 +12,7 @@ Git clone our repository and install the requirements.
 
 ```bash
 https://github.com/zailongchen/Attention_Suppression.git
-cd Attention_Suppression
+cd Position-Bias-Suppression
 pip install -r requirements.txt
 ```
 
